@@ -1,0 +1,20 @@
+* {
+    color: antiquewhite;
+}
+
+header {
+    margin-left: 32px;
+    margin-top: 8px;
+    color: antiquewhite;
+    margin-bottom: 40px;
+}
+
+body {
+    background-color: black;
+    color: antiquewhite;
+}
+
+h2 {
+    margin-top: 40px;
+}
+
